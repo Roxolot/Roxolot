@@ -5,7 +5,4 @@ but hey, its part of learning to just one day start using github.
 
 Right now i'm interested on reverse engineering and backend coding.
 
-
-You can contact me via dms in twitter @rootAlekseiRov.
-
 Have a nice day :)
