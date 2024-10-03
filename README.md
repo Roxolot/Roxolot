@@ -11,5 +11,5 @@ To learn languages i do some "coding challenges" like Conway's game of life so i
 
 For example this was my attempt to learn python back the day: ![Coway's game of life on python](https://github.com/Roxolot/python-GoL)
 
-Contact me: ![email](javiole.colvi@gmail.com)
+Contact me: javiole.colvi@gmail.com
 
